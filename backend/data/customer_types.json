@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nameType" : "Gold",
+        "discount" : 20,
+        "requiredPointNumber" : 500
+    },
+    {
+        "id": 2,
+        "nameType" : "Silver",
+        "discount" : 10,
+        "requiredPointNumber" : 300
+    },
+    {
+        "id": 3,
+        "nameType" : "Bronze",
+        "discount" : 5,
+        "requiredPointNumber" : 100
+    }
+]

@@ -1,0 +1,204 @@
+[
+    {
+        "uniqueOrderId": "BLuu6BvEHu",
+        "rentalObjectId": 1,
+        "rentVehicles": [
+            {
+                "brand": "Mercedes",
+                "model": "2001",
+                "price": "1000",
+                "vehicleType": "Van",
+                "object": 1,
+                "transmissionType": "Automatic",
+                "fuelType": "Petrol",
+                "consumption": "6",
+                "doorNumber": "4",
+                "personNumber": "4",
+                "description": "sxswx",
+                "image": "car1.png",
+                "vehicleStatus": "Available",
+                "id": 1,
+                "quantity": 1
+            }
+        ],
+        "dateTime": "2023-07-03",
+        "durationLease": 25,
+        "price": null,
+        "buyer": {
+            "id": 1,
+            "name": "Katarina",
+            "lastName": "Jovanovic"
+        },
+        "orderStatus": "Cancelled",
+        "isRated": false,
+        "id": 1
+    },
+    {
+        "uniqueOrderId": "4A9rMbldtS",
+        "rentalObjectId": 1,
+        "rentVehicles": [
+            {
+                "brand": "Mercedes",
+                "model": "2001",
+                "price": "1000",
+                "vehicleType": "Van",
+                "object": 1,
+                "transmissionType": "Automatic",
+                "fuelType": "Petrol",
+                "consumption": "6",
+                "doorNumber": "4",
+                "personNumber": "4",
+                "description": "sxswx",
+                "image": "car1.png",
+                "vehicleStatus": "Available",
+                "id": 1,
+                "quantity": 2
+            }
+        ],
+        "dateTime": "2023-07-04",
+        "durationLease": 25,
+        "price": null,
+        "buyer": {
+            "id": 1,
+            "name": "Katarina",
+            "lastName": "Jovanovic"
+        },
+        "orderStatus": "Cancelled",
+        "isRated": false,
+        "id": 2
+    },
+    {
+        "uniqueOrderId": "lX6emATb7q",
+        "rentalObjectId": 1,
+        "rentVehicles": [
+            {
+                "brand": "Jeep",
+                "model": "2008",
+                "price": "2000",
+                "vehicleType": "MobileHome",
+                "object": 1,
+                "transmissionType": "Manual",
+                "fuelType": "Petrol",
+                "consumption": "3",
+                "doorNumber": "9",
+                "personNumber": "8",
+                "description": "nj",
+                "image": "car6.png",
+                "vehicleStatus": "Available",
+                "id": 2,
+                "quantity": 3
+            }
+        ],
+        "dateTime": "2023-07-18",
+        "durationLease": 4,
+        "price": null,
+        "buyer": {
+            "id": 1,
+            "name": "Katarina",
+            "lastName": "Jovanovic"
+        },
+        "orderStatus": "Cancelled",
+        "isRated": false,
+        "id": 3
+    },
+    {
+        "uniqueOrderId": "MZLQ6qLdPi",
+        "rentalObjectId": 2,
+        "rentVehicles": [
+            {
+                "brand": "Porshe",
+                "model": "Panamera",
+                "price": "2500",
+                "vehicleType": "Car",
+                "object": 2,
+                "transmissionType": "Automatic",
+                "fuelType": "Petrol",
+                "consumption": "10",
+                "doorNumber": "13",
+                "personNumber": "12",
+                "description": "ddqdq",
+                "image": "car3.png",
+                "vehicleStatus": "Rented",
+                "id": 4
+            }
+        ],
+        "dateTime": "2023-07-18",
+        "durationLease": 18,
+        "price": 12500,
+        "buyer": {
+            "id": 1,
+            "name": "Katarina",
+            "lastName": "Jovanovic"
+        },
+        "orderStatus": "Approved",
+        "isRated": false,
+        "id": 4
+    },
+    {
+        "uniqueOrderId": "lEHVhTople",
+        "rentalObjectId": 2,
+        "rentVehicles": [
+            {
+                "brand": "Porshe",
+                "model": "Panamera",
+                "price": "2500",
+                "vehicleType": "Car",
+                "object": 2,
+                "transmissionType": "Automatic",
+                "fuelType": "Petrol",
+                "consumption": "10",
+                "doorNumber": "13",
+                "personNumber": "12",
+                "description": "ddqdq",
+                "image": "car3.png",
+                "vehicleStatus": "Available",
+                "id": 4
+            }
+        ],
+        "dateTime": "2023-07-10",
+        "durationLease": 18,
+        "price": 8000,
+        "buyer": {
+            "id": 1,
+            "name": "Katarina",
+            "lastName": "Jovanovic"
+        },
+        "orderStatus": "Taken",
+        "isRated": true,
+        "id": 5
+    },
+    {
+        "uniqueOrderId": "FKuTwARGTp",
+        "rentalObjectId": 2,
+        "rentVehicles": [
+            {
+                "brand": "Porshe",
+                "model": "Panamera",
+                "price": "2500",
+                "vehicleType": "Car",
+                "object": 2,
+                "transmissionType": "Automatic",
+                "fuelType": "Petrol",
+                "consumption": "10",
+                "doorNumber": "13",
+                "personNumber": "12",
+                "description": "ddqdq",
+                "image": "car3.png",
+                "vehicleStatus": "Available",
+                "id": 4,
+                "quantity": 2
+            }
+        ],
+        "dateTime": "2023-07-18",
+        "durationLease": 18,
+        "price": 4000,
+        "buyer": {
+            "id": 1,
+            "name": "Katarina",
+            "lastName": "Jovanovic"
+        },
+        "orderStatus": "Processing",
+        "isRated": false,
+        "id": 6
+    }
+]

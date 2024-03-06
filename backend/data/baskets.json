@@ -1,0 +1,276 @@
+[
+    {
+        "vehicles": [
+            {
+                "brand": "Porshe",
+                "model": "Panamera",
+                "price": "2500",
+                "vehicleType": "Car",
+                "object": 2,
+                "transmissionType": "Automatic",
+                "fuelType": "Petrol",
+                "consumption": "10",
+                "doorNumber": "13",
+                "personNumber": "12",
+                "description": "ddqdq",
+                "image": "car3.png",
+                "vehicleStatus": "Available",
+                "id": 4
+            }
+        ],
+        "user": {
+            "id": 1,
+            "username": "katarina123",
+            "password": "123",
+            "name": "Katarina",
+            "lastName": "Jovanovic",
+            "gender": "Female",
+            "dateOfBirth": "03/05/2001",
+            "userRole": "Customer",
+            "rentals": [
+                {
+                    "id": 2,
+                    "rentVehicles": [
+                        {
+                            "id": 1
+                        }
+                    ],
+                    "rentalObjectId": 1,
+                    "orderStatus": "Cancelled"
+                },
+                {
+                    "id": 3,
+                    "rentVehicles": [
+                        {
+                            "id": 2
+                        }
+                    ],
+                    "rentalObjectId": 1,
+                    "orderStatus": "Processing"
+                }
+            ],
+            "basket": null,
+            "rentalObject": null,
+            "pointsNumber": 0,
+            "customerType": {},
+            "userIcon": "icon4.png"
+        },
+        "price": 2500,
+        "dateTime": "2023-07-18",
+        "datesNum": 18,
+        "id": 1
+    },
+    {
+        "vehicles": [
+            {
+                "brand": "Mercedes",
+                "model": "2001",
+                "price": "1000",
+                "vehicleType": "Van",
+                "object": 1,
+                "transmissionType": "Automatic",
+                "fuelType": "Petrol",
+                "consumption": "6",
+                "doorNumber": "4",
+                "personNumber": "4",
+                "description": "sxswx",
+                "image": "car1.png",
+                "vehicleStatus": "Available",
+                "id": 1
+            }
+        ],
+        "user": {
+            "id": 1,
+            "username": "katarina123",
+            "password": "123",
+            "name": "Katarina",
+            "lastName": "Jovanovic",
+            "gender": "Female",
+            "dateOfBirth": "03/05/2001",
+            "userRole": "Customer",
+            "rentals": [
+                {
+                    "id": 2,
+                    "rentVehicles": [
+                        {
+                            "id": 1
+                        }
+                    ],
+                    "rentalObjectId": 1,
+                    "orderStatus": "Cancelled"
+                },
+                {
+                    "id": 3,
+                    "rentVehicles": [
+                        {
+                            "id": 2
+                        }
+                    ],
+                    "rentalObjectId": 1,
+                    "orderStatus": "Processing"
+                }
+            ],
+            "basket": null,
+            "rentalObject": null,
+            "pointsNumber": 0,
+            "customerType": {},
+            "userIcon": "icon4.png"
+        },
+        "price": 1000,
+        "dateTime": "2023-07-05",
+        "datesNum": 20,
+        "id": 2
+    },
+    {
+        "vehicles": [
+            {
+                "brand": "Jeep",
+                "model": "2008",
+                "price": "2000",
+                "vehicleType": "MobileHome",
+                "object": 1,
+                "transmissionType": "Manual",
+                "fuelType": "Petrol",
+                "consumption": "3",
+                "doorNumber": "9",
+                "personNumber": "8",
+                "description": "nj",
+                "image": "car6.png",
+                "vehicleStatus": "Available",
+                "id": 2
+            }
+        ],
+        "user": {
+            "id": 1,
+            "username": "katarina123",
+            "password": "123",
+            "name": "Katarina",
+            "lastName": "Jovanovic",
+            "gender": "Female",
+            "dateOfBirth": "03/05/2001",
+            "userRole": "Customer",
+            "rentals": [
+                {
+                    "id": 2,
+                    "rentVehicles": [
+                        {
+                            "id": 1
+                        }
+                    ],
+                    "rentalObjectId": 1,
+                    "orderStatus": "Cancelled"
+                },
+                {
+                    "id": 3,
+                    "rentVehicles": [
+                        {
+                            "id": 2
+                        }
+                    ],
+                    "rentalObjectId": 1,
+                    "orderStatus": "Processing"
+                },
+                {
+                    "id": 4,
+                    "rentVehicles": [
+                        {
+                            "id": 4
+                        }
+                    ],
+                    "rentalObjectId": 2,
+                    "orderStatus": "Processing"
+                }
+            ],
+            "basket": null,
+            "rentalObject": null,
+            "pointsNumber": 1662.5,
+            "customerType": {
+                "id": 1,
+                "nameType": "Gold",
+                "discount": 20,
+                "requiredPointNumber": 500
+            },
+            "userIcon": "icon4.png"
+        },
+        "price": 2000,
+        "dateTime": "2023-07-18",
+        "datesNum": 4,
+        "id": 3
+    },
+    {
+        "vehicles": [
+            {
+                "brand": "Jeep",
+                "model": "2008",
+                "price": "2000",
+                "vehicleType": "MobileHome",
+                "object": 1,
+                "transmissionType": "Manual",
+                "fuelType": "Petrol",
+                "consumption": "3",
+                "doorNumber": "9",
+                "personNumber": "8",
+                "description": "nj",
+                "image": "car6.png",
+                "vehicleStatus": "Available",
+                "id": 2
+            }
+        ],
+        "user": {
+            "id": 1,
+            "username": "katarina123",
+            "password": "123",
+            "name": "Katarina",
+            "lastName": "Jovanovic",
+            "gender": "Female",
+            "dateOfBirth": "03/05/2001",
+            "userRole": "Customer",
+            "rentals": [
+                {
+                    "id": 2,
+                    "rentVehicles": [
+                        {
+                            "id": 1
+                        }
+                    ],
+                    "rentalObjectId": 1,
+                    "orderStatus": "Cancelled"
+                },
+                {
+                    "id": 3,
+                    "rentVehicles": [
+                        {
+                            "id": 2
+                        }
+                    ],
+                    "rentalObjectId": 1,
+                    "orderStatus": "Processing"
+                },
+                {
+                    "id": 4,
+                    "rentVehicles": [
+                        {
+                            "id": 4
+                        }
+                    ],
+                    "rentalObjectId": 2,
+                    "orderStatus": "Processing"
+                }
+            ],
+            "basket": null,
+            "rentalObject": null,
+            "pointsNumber": 1662.5,
+            "customerType": {
+                "id": 1,
+                "nameType": "Gold",
+                "discount": 20,
+                "requiredPointNumber": 500
+            },
+            "userIcon": "icon4.png"
+        },
+        "price": 2000,
+        "dateTime": "2023-07-19",
+        "datesNum": -4,
+        "id": 4
+    }
+]

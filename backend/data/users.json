@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "username": "katarina123",
+        "password": "123",
+        "name": "Katarina",
+        "lastName": "Jovanovic",
+        "gender": "Female",
+        "dateOfBirth": "03/05/2001",
+        "userRole": "Customer",
+        "rentals": [
+            {
+                "id": 2,
+                "rentVehicles": [
+                    {
+                        "id": 1
+                    }
+                ],
+                "rentalObjectId": 1,
+                "orderStatus": "Cancelled"
+            },
+            {
+                "id": 3,
+                "rentVehicles": [
+                    {
+                        "id": 2
+                    }
+                ],
+                "rentalObjectId": 1,
+                "orderStatus": "Cancelled"
+            },
+            {
+                "id": 4,
+                "rentVehicles": [
+                    {
+                        "id": 4
+                    }
+                ],
+                "rentalObjectId": 2,
+                "orderStatus": "Processing"
+            },
+            {
+                "id": 5,
+                "rentVehicles": [
+                    {
+                        "id": 4
+                    }
+                ],
+                "rentalObjectId": 2,
+                "orderStatus": "Processing"
+            },
+            {
+                "id": 6,
+                "rentVehicles": [
+                    {
+                        "id": 4
+                    }
+                ],
+                "rentalObjectId": 2,
+                "orderStatus": "Processing"
+            }
+        ],
+        "basket": null,
+        "rentalObject": null,
+        "pointsNumber": 3258.5,
+        "customerType": {
+            "id": 1,
+            "nameType": "Gold",
+            "discount": 20,
+            "requiredPointNumber": 500
+        },
+        "userIcon": "icon4.png",
+        "blocked": false,
+        "rejectedNum": 7
+    },
+    {
+        "username": "nina",
+        "password": "bg",
+        "name": "Nina",
+        "lastName": "Matic",
+        "gender": "female",
+        "dateOfBirth": "2001-06-29",
+        "userRole": "Administrator",
+        "rentals": [],
+        "basket": null,
+        "rentalObject": null,
+        "pointsNumber": 0,
+        "customerType": {},
+        "id": 2,
+        "userIcon": "icon1.png",
+        "blocked": false,
+        "ViewSuspisios": 0
+    },
+    {
+        "username": "Mina",
+        "password": "123",
+        "name": "Mina",
+        "lastName": "Matic",
+        "gender": "male",
+        "dateOfBirth": "2003-07-19",
+        "userRole": "Manager",
+        "rentals": null,
+        "basket": null,
+        "rentalObject": {
+            "name": "lala",
+            "vehicles": [],
+            "workingTime": "10:00h-20:00h",
+            "objectStatus": "Working",
+            "location": {
+                "id": 1,
+                "longitude": 20.382352581452906,
+                "latitude": 44.85618257482606,
+                "address": {
+                    "street": "Sumadijska 10",
+                    "city": "Beograd",
+                    "postCode": 11000
+                }
+            },
+            "logo": "rental4.png",
+            "grade": 10,
+            "id": 6
+        },
+        "pointsNumber": 0,
+        "customerType": null,
+        "id": 3,
+        "userIcon": "icon1.png",
+        "blocked": false,
+        "rejectedNum": 0
+    },
+    {
+        "username": "Mitar",
+        "password": "123",
+        "name": "Mitar",
+        "lastName": "Savic",
+        "gender": "male",
+        "dateOfBirth": "2000-07-19",
+        "userRole": "Manager",
+        "rentals": null,
+        "basket": null,
+        "rentalObject": {
+            "name": "Lux rentali",
+            "vehicles": [
+                {
+                    "brand": "Porshe",
+                    "model": "Panamera",
+                    "price": "2500",
+                    "vehicleType": "Car",
+                    "object": 2,
+                    "transmissionType": "Automatic",
+                    "fuelType": "Petrol",
+                    "consumption": "10",
+                    "doorNumber": "13",
+                    "personNumber": "12",
+                    "description": "ddqdq",
+                    "image": "car3.png",
+                    "vehicleStatus": "Available",
+                    "id": 4
+                }
+            ],
+            "workingTime": "12:00h-18:00h",
+            "objectStatus": "Working",
+            "location": {
+                "id": 2,
+                "longitude": 19.834211508134747,
+                "latitude": 45.255766761118245,
+                "address": {
+                    "street": "Bulevar Oslobodjenja 60",
+                    "city": "Novi Sad",
+                    "postCode": 21000
+                }
+            },
+            "logo": "rental2.png",
+            "grade": 10,
+            "id": 2
+        },
+        "pointsNumber": 0,
+        "customerType": null,
+        "id": 4,
+        "userIcon": "icon2.png",
+        "blocked": false,
+        "rejectedNum": 0
+    }
+]

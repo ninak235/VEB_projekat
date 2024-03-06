@@ -1,0 +1,73 @@
+[
+    {
+        "customer": {
+            "id": 1,
+            "name": "Katarina",
+            "lastName": "Jovanovic"
+        },
+        "rentalObjectId": 1,
+        "textCom": "lovely!",
+        "grade": "5",
+        "id": 1
+    },
+    {
+        "customer": {
+            "id": 1,
+            "name": "Katarina",
+            "lastName": "Jovanovic"
+        },
+        "rentalObjectId": 1,
+        "textCom": "top",
+        "grade": "7",
+        "id": 2
+    },
+    {
+        "customer": {
+            "id": 1,
+            "username": "katarina123",
+            "userIcon": "icon4.png"
+        },
+        "rentalObjectId": 1,
+        "textCom": "Presli smo 250.000 Pregleda!Mnogo vam Hvala,posle malo duze pauze se vracam sa pravljenjem mixova tako da ovih dana ce izaci jos mixova.Naravno ako imate zelju za nekog pjevaca slobodno predlozite...",
+        "grade": "7",
+        "managerApproved": true,
+        "id": 3
+    },
+    {},
+    {
+        "customer": {
+            "id": 1,
+            "username": "katarina123",
+            "userIcon": "icon4.png"
+        },
+        "rentalObjectId": 14,
+        "textCom": "Presli smo 250.000 Pregleda!Mnogo vam Hvala,posle malo duze pauze se vracam sa pravljenjem mixova tako da ovih dana ce izaci jos mixova.Naravno ako imate zelju za nekog pjevaca slobodno predlozite...",
+        "grade": "7",
+        "managerApproved": true,
+        "id": 4
+    },
+    {
+        "customer": {
+            "id": 1,
+            "username": "katarina123",
+            "userIcon": "icon4.png"
+        },
+        "rentalObjectId": 14,
+        "textCom": "Presli smo 250.000 Pregleda!Mnogo vam Hvala,posle malo duze pauze se vracam sa pravljenjem mixova tako da ovih dana ce izaci jos mixova.Naravno ako imate zelju za nekog pjevaca slobodno predlozite...",
+        "grade": "8",
+        "managerApproved": false,
+        "id": 5
+    },
+    {
+        "customer": {
+            "id": 1,
+            "username": "katarina123",
+            "userIcon": "icon4.png"
+        },
+        "rentalObjectId": 2,
+        "textCom": "Super objekat, zadovoljan sam vasom uslugom, 10/10",
+        "grade": "10",
+        "managerApproved": true,
+        "id": 6
+    }
+]
